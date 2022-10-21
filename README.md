@@ -1,0 +1,2 @@
+# esp32_micropython_ssd1327
+在ESP32芯片上使用micropython驱动ssd1327 1.5寸屏幕，使用上位机服务器获取中文字库（也可使用本地字库）
